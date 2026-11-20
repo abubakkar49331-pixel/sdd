@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Microtask \u0026 Apps Script Studio",
+  "description": "বাংলা মাইক্রোটাস্ক ওয়েবসাইট এবং ব্লগার ও Google Apps Script একক-ফাইল সেটআপ স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
